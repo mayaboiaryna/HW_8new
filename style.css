@@ -1,0 +1,40 @@
+.text-box > h3:first-child
+{
+    color:pink;
+}
+#greycol
+{
+    color: gray;
+}
+div >  p:first-child
+{
+    color: red;
+}
+.text-box > p:nth-child(7)
+{
+    color: green;
+}
+.yellow
+{
+    color: yellow;
+}
+list-box h3:hover
+{
+background-color: antiquewhite;
+}
+list-box li:hover 
+{
+background-color: rgb(38, 220, 193);
+}
+list-box li:active 
+{
+background-color: rgb(38, 132, 220);
+}
+list-box>h3:first-child 
+{
+background-color: rgb(244, 247, 92);
+}
+body
+{
+    background-color: dimgray;
+}
